@@ -6,7 +6,7 @@ var apiKey = '';
 var target = '';
 // The second email address used as the second recipient.
 var target2 = '';
-// The ID of the used SendinBlue SMTP email template.
+// The ID of the used SendinBlue SMTP email template (an integer).
 var templateId = 0;
 
 
